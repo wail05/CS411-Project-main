@@ -1,0 +1,8 @@
+.venv
+venv
+prototype/__pycache__
+.vscode
+prototype/venv
+server/creds.yaml
+server/env
+client/src/creds.js
